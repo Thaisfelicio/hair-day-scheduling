@@ -18,3 +18,16 @@ Scheduling application called Hair Day with React.js, TypeScript, Vite and Tailw
 ``` bash
 git clone https://github.com/Thaisfelicio/hair-day-scheduling.git
 ```
+2. Install PNPM package manager
+``` bash
+npm i -g pnpm
+```
+3. Install dependencies
+``` bash
+pnpm install
+```
+4. Run development server
+``` bash
+pnpm run dev
+```
+Open [http://localhost:5173/](http://localhost:5173/) in your browser
